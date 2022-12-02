@@ -1,0 +1,45 @@
+node,description
+1,E-block entrance
+2,Left round about at rock gardens
+3,Right round about at rock gardens
+4,infinity pool vertex-LT
+5,infinity pool vertex-RT
+6,infinity pool vertex-LB
+7,infinity pool vertex-RB
+8,junction from infinity pool to SAC
+9,junction from infinity pool to Lover’s Lane
+10,junction from Road Not Taken to SAC
+11,junction from RNT to E-block entrance
+12,junction from RNT to Mechanical Workshop
+13,Mechanical Workshop junction
+14,New Acad block RNT junction-1
+15,New Acad block RNT junction-2
+16,Fountain/Entrance
+17,A-block entrance
+18,Faculty-phd quarters junction-1
+19,Faculty-phd quarters junction-2
+20,Faculty-phd quarters junction-3
+21,Faculty-phd quarters junction-4
+22,Faculty-phd quarters junction-5
+23,Faculty-phd quarters junction-6
+24,Faculty-phd quarters junction-7
+25,Faculty-phd quarters junction-8
+26,Faculty-phd quarters junction-9
+27,Faculty-phd quarters junction-10
+28,Faculty-phd quarters junction-11
+29,Faculty-phd quarters junction-12
+30,new football ground
+31,cricket ground
+32,SAC
+33,C-block entrance/Acad block entrances
+34,girl’s hostel junction
+35,Mess-1 boy’s old hostel junction
+36,chipotle junction
+37,C3 benches junction
+38,Mess-2 new boy’s hostel junction
+39,gautam entrance
+40,Vishwakarma entrance
+41,K-block entrance/Cafeteria backside
+42,H-block entrance
+43,E-block RNT Mech workshop junction
+44,girl’s hostel RNT junction
